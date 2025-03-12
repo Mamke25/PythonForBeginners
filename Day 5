@@ -1,0 +1,15 @@
+# Currency
+# 1 colombian peso in usd is 0,00024
+# 1 peruvian sol in usd is 0,27
+# 1 brazilian reais in usd is 0.16 
+
+peso = float(input('What do you have left in peso?'))
+sol = float(input('What do you have left in sol?'))
+reais = float(input('What do you have left in realis?'))
+value_usd_peso = peso * 0.0024
+value_usd_sol = sol * 0.27
+value_usd_reais = reais * 0.16
+
+total_usd = value_usd_peso + value_usd_sol + value_usd_reais
+
+print(total_usd)
