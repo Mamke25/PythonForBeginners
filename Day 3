@@ -1,0 +1,7 @@
+# Learning exponents
+# BMI
+mass = 46
+height = 1.78
+bmi= mass/height**2
+
+print(bmi)
