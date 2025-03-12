@@ -1,0 +1,6 @@
+# Temperature
+
+temp_fahrenheit = int(input("Enter your temperature")
+
+temp_celsius = (temp_fahrenheit-32)/1.8
+print(temp_celsius)
