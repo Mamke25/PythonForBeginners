@@ -1,0 +1,12 @@
+# Data and variables
+# Write code below 💖
+name = 'Sean Mthembu'
+user_id = 16180515454
+progress =  0.75
+exp = 60
+verified =  True
+print(name)
+print(user_id)
+print(progress)
+print(exp)
+print(verified)
